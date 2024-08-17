@@ -16,6 +16,7 @@ fastapi==0.112.1
 filelock==3.12.2
 fonttools==4.41.1
 h11==0.14.0
+httptools==0.6.1
 idna==3.4
 imageio==2.31.1
 imutils==0.5.4
@@ -46,6 +47,7 @@ pyparsing==3.0.9
 python-bidi==0.4.2
 python-dateutil==2.8.2
 python-decouple==3.8
+python-dotenv==1.0.1
 python-multipart==0.0.9
 pytz==2023.3
 PyWavelets==1.4.1
@@ -72,3 +74,6 @@ tzdata==2023.3
 ultralytics==8.0.141
 urllib3==2.0.4
 uvicorn==0.30.6
+uvloop==0.20.0
+watchfiles==0.23.0
+websockets==12.0
