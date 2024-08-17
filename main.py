@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
 from recognizer.main import PlateNumberRecognition
 from fastapi import FastAPI, File, UploadFile
 import json
